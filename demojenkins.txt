@@ -1,1 +1,1 @@
-hello r=test fir jenkins
+hello test fir jenkins
